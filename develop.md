@@ -56,6 +56,6 @@
 
   
  
- 4.  The **uppermost part** of app is a  **linear layout** featuring a  **text view Book Ed ,  Edit Text search , Button Notification,        and at rightmost corner setting a button **
+ 4.  The **uppermost part** of app is a  **linear layout** featuring a **text view Book Ed, Edit Text search, Button Notification,        and at rightmost corner setting a button **
      In the next  **Linear Layout** we have different  **buttons** for selling and  finding particular category of books. Below that we      have  **Text view Latest Search**. Below it we have **image button for different books in a linear layout**.
      Similarly we have **Recommended books  in text view** and below it **image button for differnt books**.
