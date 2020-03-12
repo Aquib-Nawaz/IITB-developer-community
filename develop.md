@@ -8,7 +8,9 @@
   d. When user start or open an android application, it will undergo various states and that is called as Android Activity Cycle. 
      These are the callbacks which are invoked when activity enters a new state:
      **onCreate(), onStart(), onResume(), onPause(), onStop(), and onDestroy().**
-  
+     
+     ![Screenshot (18)](https://user-images.githubusercontent.com/62108238/76548224-6afbd000-64b4-11ea-83bf-afa7e5befb89.png)
+
   e. Five different UI elements are:
       -	Checkboxes
       -	RadioButtons
