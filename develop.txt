@@ -41,5 +41,15 @@
 	data types are similar. 
 TASK
 
- 1.    
+ 1.  The basic building block for user interface is a View object that is created from        the View class and occupies a rectangular area on the screen.
+     The ViewGroup is a subclass of View. One or more Views can be grouped together          into a ViewGroup. A ViewGroup provides the android layout in which we can order          the appearance and sequence of views. Examples of ViewGroup are LinearLayout,            FrameLayout, RelativeLayout etc.
+     LinearLayout : is a ViewGroup that aligns all children in a single direction,            vertically or horizontally
+     RelativeLayout : is a ViewGroup that displays child views in relative positions
         
+2.   Various features are as follows:
+	Option to login or logout.
+	Option to sell.
+	Notification.
+	Search Option.
+	Book Categories.
+	Recommendation.
