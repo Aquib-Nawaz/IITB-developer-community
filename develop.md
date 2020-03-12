@@ -16,28 +16,26 @@
       -	Progress Bar
       - Seek Bar
   
-  f. Some salient features of Kotlin are as follows:
+  f. Some salient features of **Kotlin** are as follows:
       - Concise code. Codes can be written in less number of ines
       -	Null safety. Reduce app crashes.
       -	Easily understandable code.	
       -	Interoperability with Java.
-     
      Similarities between C++ and Kotlin:
       -	Kotlin is a statically typed programming languag like C++.
       -	Both suppoorts classes and method of OOP.
       -	Like C++ its entry point is also main function. 
-
-     Some salient features of Java are as follows:
+     Some salient features of **Java** are as follows:
       -	It is simple.
-      -	It is a fully object ariented programmin language with all OOP features such as abstraction, encapsulation, inheritance and           - polymorphism.
+      -	It is a fully object ariented programmin language with all OOP features
       -	It supports functional programming.
       -	It is secure and robust.
-     
      Similarities between C++ and Java:
       -	The syntax is very similar.
       -	Both are object oriented.
       -	Main function is the entry point for both languages.
       -	data types are similar. 
+
 # TASK
 
  1.  The basic building block for user interface is a View object that is created from the View class and occupies a rectangular area on      the screen.
