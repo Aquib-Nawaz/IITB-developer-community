@@ -1,7 +1,6 @@
 1.
-  a. Android is a mobile operating system based on a modified version of the Linux kernel and other open source software. It is designed primarily for touchscreen 
-     mobile devices such as smartphones and tablets. It was founded by Andy Rubin, Rich Miner, Nick Sears, and Chris White. An Android app is a software application 
-     running on the android platform.
+  a. Android is a mobile operating system based on a modified version of the Linux kernel and other open source software. It is designed      primarily for touchscreen mobile devices such as smartphones and tablets. It was founded by Andy Rubin, Rich Miner, Nick Sears, and      Chris White. An Android app is a software application 
+     running on the android p latform.
 
   b. Android apps can be written using Android Software Development Kit.  
   
@@ -31,7 +30,7 @@
 
      Some salient features of Java are as follows:
 	It is simple.
-	It is a fully object ariented programmin language with all OOP features such as abstraction, encapsulation, inheritance and polymorphism.
+	It is a fully object ariented programmin language with all OOP features such as abstraction, encapsulation, inheritance and             polymorphism.
 	It supports functional programming.
 	It is secure and robust.
      
