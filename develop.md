@@ -26,15 +26,15 @@
       -	Both suppoorts classes and method of OOP.                                   
       -	Like C++ its entry point is also main function.                                                                         
      Some **salient features of Java** are as follows:
-      -	It is **simple**.                              
-      -	It is a fully **object oriented programmin language** with all OOP features
-      -	It supports **functional programming**.
-      -	It is **secure and robust**.                                         
-     **Similarities** between C++ and Java:
-      -	The **syntax** is very **similar**.
-      -	Both are **object oriented**.
-      -	**Main function** is the entry point for both languages.
-      -	**data types** are **similar**. 
+      -	It is **simple**.                                                                                          
+      -	It is a fully **object oriented programmin language** with all OOP features                            
+      -	It supports **functional programming**.                            
+      -	It is **secure and robust**.                                                                        
+     **Similarities** between C++ and Java:                                   
+      -	The **syntax** is very **similar**.                            
+      -	Both are **object oriented**.                                             
+      -	**Main function** is the entry point for both languages.                            
+      -	**data types** are **similar**.                                           
 
 # TASK
 
