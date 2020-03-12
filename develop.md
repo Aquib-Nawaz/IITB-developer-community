@@ -52,7 +52,8 @@
       -	Book **Categories.**
       -	**Recommendation.**
       -	**Latest Search**
- 3.   ![Screenshot (20)](https://user-images.githubusercontent.com/62108238/76554660-   3f7ce380-64bc-11ea-9a1b-663a84d7efde.png)
+ 3.   ![Screenshot (20)](https://user-images.githubusercontent.com/62108238/76554660-3f7ce380-64bc-11ea-9a1b-663a84d7efde.png)
+
   
  
  4.  
